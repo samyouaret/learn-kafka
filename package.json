@@ -1,0 +1,11 @@
+{
+  "name": "learn-kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:samyouaret/learn-kafka.git",
+  "author": "samyouaret <samyouaret13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-rdkafka": "^2.13.0"
+  }
+}
