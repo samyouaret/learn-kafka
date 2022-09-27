@@ -18,7 +18,7 @@ Explaining the command
 
 To list topics we use `--list` option
 
-    kafka-topics --bootstrap-server broker:9092 --list.
+    kafka-topics --bootstrap-server broker:9092 --list
 
 ## Produce messages
 
